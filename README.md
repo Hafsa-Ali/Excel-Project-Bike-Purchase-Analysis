@@ -34,7 +34,7 @@ Key steps taken:
 ### 3. Pivot Table & Visualizations (Sheet: pivot table)
 Utilized pivot tables to analyze trends and create the following charts:
 1. Income vs Gender
-   ![image](https://github.com/user-attachments/assets/470efe1e-5fe9-4320-af32-f476117f18f3)
+   
 3. Age vs Bike Purchase
 2. Commute Distance vs Bike Purchase
 
