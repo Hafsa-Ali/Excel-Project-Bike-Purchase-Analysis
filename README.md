@@ -52,5 +52,10 @@ Compiled all charts into a simple, interactive dashboard:
   - Males who purchased bikes have a higher average income than those who did not.
   - Similarly, females who purchased bikes earn slightly more than those who didn’t.
   - Overall, males have a higher income than females, regardless of the purchase decision.
-
-  
+### 2.Customer Age Brackets:
+#### - Purchasing Trend by Age Group:
+  - Middle-aged customers dominate the purchasing category compared to adolescents or older customers.
+### 3.Commute Distance and Purchases:
+#### - Purchase Likelihood by Commute Distance:
+  - Highest Purchase Percentage: 2–5 Miles indicates a peak interest in bike purchasing for moderate-distance commutes.
+  - Lowest Purchase Percentage: More than 10 Miles suggests that long commutes may deter bike purchases, possibly due to physical or time-related constraints.
