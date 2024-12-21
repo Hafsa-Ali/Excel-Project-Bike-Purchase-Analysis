@@ -48,9 +48,9 @@ Compiled all charts into a simple, interactive dashboard:
 
 ## Key Insights
 ### 1.Average Salary per Purchase:
-#### -Observation by Gender:
-  -Males who purchased bikes have a higher average income than those who did not.
-  -Similarly, females who purchased bikes earn slightly more than those who didn’t.
-  -Overall, males have a higher income than females, regardless of the purchase decision.
+#### - Observation by Gender:
+  - Males who purchased bikes have a higher average income than those who did not.
+  - Similarly, females who purchased bikes earn slightly more than those who didn’t.
+  - Overall, males have a higher income than females, regardless of the purchase decision.
 
   
