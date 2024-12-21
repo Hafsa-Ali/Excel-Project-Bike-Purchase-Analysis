@@ -46,3 +46,11 @@ Compiled all charts into a simple, interactive dashboard:
 - Designed for ease of use and interpretation.
   ![](https://github.com/Hafsa-Ali/Excel-Project-Bike-Purchase-Analysis/blob/main/chats/Dashboard.PNG)
 
+## Key Insights
+### 1.Average Salary per Purchase:
+#### -Observation by Gender:
+  -Males who purchased bikes have a higher average income than those who did not.
+  -Similarly, females who purchased bikes earn slightly more than those who didn’t.
+  -Overall, males have a higher income than females, regardless of the purchase decision.
+
+  
