@@ -34,12 +34,15 @@ Key steps taken:
 ### 3. Pivot Table & Visualizations (Sheet: pivot table)
 Utilized pivot tables to analyze trends and create the following charts:
 1. Income vs Gender
-   ![Query 2 Snapshot](https://github.com/Hafsa-Ali/Pizza-Sales-SQL-Queries/blob/main/Queries/Basic%202.PNG)
-3. Age vs Bike Purchase
-2. Commute Distance vs Bike Purchase
+   ![](https://github.com/Hafsa-Ali/Excel-Project-Bike-Purchase-Analysis/blob/main/chats/avg_salary.PNG)
+2. Age vs Bike Purchase
+   ![](https://github.com/Hafsa-Ali/Excel-Project-Bike-Purchase-Analysis/blob/main/chats/age_brackets.PNG)
+3. Commute Distance vs Bike Purchase
+   ![](https://github.com/Hafsa-Ali/Excel-Project-Bike-Purchase-Analysis/blob/main/chats/customer_commute.PNG)
 
 ### 4. Interactive Dashboard (Sheet: dashboard)
 Compiled all charts into a simple, interactive dashboard:
 - Included slicers for dynamic filtering.
 - Designed for ease of use and interpretation.
+  ![](https://github.com/Hafsa-Ali/Excel-Project-Bike-Purchase-Analysis/blob/main/chats/Dashboard.PNG)
 
