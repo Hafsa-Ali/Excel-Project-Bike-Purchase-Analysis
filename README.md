@@ -34,7 +34,7 @@ Key steps taken:
 ### 3. Pivot Table & Visualizations (Sheet: pivot table)
 Utilized pivot tables to analyze trends and create the following charts:
 1. Income vs Gender
-   
+   ![Query 2 Snapshot](https://github.com/Hafsa-Ali/Pizza-Sales-SQL-Queries/blob/main/Queries/Basic%202.PNG)
 3. Age vs Bike Purchase
 2. Commute Distance vs Bike Purchase
 
